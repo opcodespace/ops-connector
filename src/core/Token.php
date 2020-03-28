@@ -7,7 +7,7 @@
  */
 namespace core;
 
-use core;
+use \core\AbstractModule;
 
 class Token extends AbstractModule
 {
