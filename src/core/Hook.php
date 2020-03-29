@@ -14,7 +14,7 @@ class Hook{
             'Authorization', 
             'Auth Apps', 
             'manage_options', 
-            'my-setting-admin', 
+            'auth-apps',
             array( $this, 'authorization_page' )
         );
     }
